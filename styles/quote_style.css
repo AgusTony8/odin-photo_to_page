@@ -1,0 +1,19 @@
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    /* height: 300px; */
+    flex-direction: column;
+    padding: 100px 150px 100px 150px ; 
+}
+.inspiring_quote{
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    align-self: center;
+    width: 25em;
+}
+.autor_quote{
+    align-self: self-end;
+    font-size: 24px;
+    width: 15em;
+}

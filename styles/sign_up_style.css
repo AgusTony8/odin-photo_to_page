@@ -1,0 +1,56 @@
+.sign_up{
+    padding: 100px 150px 100px 150px ;
+    display: flex;
+    align-self: center; 
+    display: flex;
+    flex-direction: column;
+}
+
+.conteiner{
+    display: flex;
+    background-color: #3882F6;
+    width: 65em;
+    height: 10em;
+    border-radius: 5%;
+}
+.call{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.call_action{
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+
+    margin-bottom: 0;
+    margin-left: 50px;
+
+}
+.call_sign{
+    font-weight: lighter;
+    font-size: 18px;
+    color: #E5E7EB;
+    
+    margin-left: 50px;
+
+}
+.call_btn{
+    display: flex;
+}
+.btn{
+    background-color: #3882F6;
+    cursor: pointer;
+    font-weight: lighter;
+    font-size: 18px;
+    color: #E5E7EB;
+    border: solid;
+    border-radius: 5%;
+    border-color: white;
+    width: 250px;
+    height: 40px;
+    align-self: center;
+}
